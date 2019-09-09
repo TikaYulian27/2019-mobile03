@@ -47,7 +47,6 @@
 		android:layout_above="@id/button2"
 		android:layout_alignParentEnd="true"
 		android:layout_alignParentRight="true"
-		android:text="Right Above Bottom"
-		/>
+		android:text="Right Above Bottom" />
 
 </RelativeLayout>
